@@ -1,0 +1,22 @@
+* {
+    background-color: beige;
+}
+
+#progress-bar{
+    padding: 30px;
+}
+#pbarText{
+    margin: 0;
+    padding: 12px;
+    color: blue;
+}
+
+#resultbar{
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#resultbar > p {
+    display: inline;
+}
