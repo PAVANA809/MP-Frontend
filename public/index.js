@@ -1,4 +1,7 @@
-import {ModelLoader} from './tfmodel.js'
+alert("Turn on Moesif CORS extention to load model");
+
+
+import { ModelLoader } from './tfmodel.js'
 
 const m = new ModelLoader();
 let model;
